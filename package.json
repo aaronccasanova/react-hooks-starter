@@ -1,6 +1,6 @@
 {
   "name": "react-hooks-starter",
-  "version": "0.0.1",
+  "version": "0.0.0-semantically-released",
   "description": "Template for packaging react hooks",
   "author": "Aaron Casanova <aaronccasanova@gmail.com> (http://aaroncasanova.com/)",
   "license": "MIT",
@@ -15,7 +15,8 @@
     "lint:fix": "eslint . --fix",
     "lint": "eslint .",
     "prebuild": "rimraf dist",
-    "start": "webpack --watch --mode development"
+    "start": "webpack --watch --mode development",
+    "semantic-release": "semantic-release"
   },
   "peerDependencies": {
     "react": "16.8.4"
@@ -45,7 +46,8 @@
     "react": "16.8.4",
     "rimraf": "2.6.3",
     "webpack-cli": "3.2.3",
-    "webpack": "4.29.6"
+    "webpack": "4.29.6",
+    "semantic-release": "^15.13.3"
   },
   "files": [
     "dist",
