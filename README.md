@@ -2,7 +2,7 @@
 [![version](https://img.shields.io/npm/v/react-hooks-starter.svg?style=flat-square)](http://npm.im/react-hooks-starter)
 [![downloads](https://img.shields.io/npm/dm/react-hooks-starter.svg?style=flat-square)](http://npm-stat.com/charts.html?package=react-hooks-starter&from=2019-03-10)
 [![MIT License](https://img.shields.io/npm/l/react-hooks-starter.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release) [![Greenkeeper badge](https://badges.greenkeeper.io/aaronccasanova/react-hooks-starter.svg)](https://greenkeeper.io/)
 
 # React Hooks Starter
 
