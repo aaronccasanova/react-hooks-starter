@@ -19,12 +19,12 @@
     "semantic-release": "semantic-release"
   },
   "peerDependencies": {
-    "react": "16.8.4"
+    "react": "16.8.6"
   },
   "devDependencies": {
     "@babel/cli": "7.2.3",
     "@babel/core": "7.4.0",
-    "@babel/preset-env": "7.4.0",
+    "@babel/preset-env": "7.4.2",
     "@babel/preset-react": "7.0.0",
     "babel-eslint": "10.0.1",
     "babel-loader": "8.0.5",
@@ -43,11 +43,11 @@
     "lint-staged": "8.1.5",
     "prettier-config-aaronccasanova": "1.0.0",
     "prettier": "1.16.4",
-    "react": "16.8.5",
+    "react": "16.8.6",
     "rimraf": "2.6.3",
     "webpack-cli": "3.3.0",
     "webpack": "4.29.6",
-    "semantic-release": "^15.13.3"
+    "semantic-release": "15.13.3"
   },
   "files": [
     "dist",
