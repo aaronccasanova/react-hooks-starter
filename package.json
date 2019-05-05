@@ -28,7 +28,7 @@
     "@babel/preset-react": "7.0.0",
     "babel-eslint": "10.0.1",
     "babel-loader": "8.0.5",
-    "eslint-config-aaronccasanova": "1.1.3",
+    "eslint-config-aaronccasanova": "1.1.10",
     "eslint-config-airbnb": "17.1.0",
     "eslint-config-prettier": "4.1.0",
     "eslint-plugin-html": "5.0.3",
