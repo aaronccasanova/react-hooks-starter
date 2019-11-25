@@ -38,7 +38,7 @@
     "eslint-plugin-prettier": "3.0.1",
     "eslint-plugin-react-hooks": "1.6.0",
     "eslint-plugin-react": "7.13.0",
-    "eslint": "5.16.0",
+    "eslint": "6.7.1",
     "husky": "2.0.0",
     "lint-staged": "8.1.6",
     "prettier-config-aaronccasanova": "1.0.1",
