@@ -43,7 +43,7 @@
     "lint-staged": "8.1.6",
     "prettier-config-aaronccasanova": "1.0.1",
     "prettier": "1.17.0",
-    "react": "16.8.6",
+    "react": "16.13.0",
     "rimraf": "2.6.3",
     "webpack-cli": "3.3.1",
     "webpack": "4.30.0",
